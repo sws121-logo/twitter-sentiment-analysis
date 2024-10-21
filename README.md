@@ -117,4 +117,4 @@ model.fit(X_train_vec, y_train)
 ```
 
 ## Conclusion
-This project provides a comprehensive framework for analyzing sentiments in tweets. By cleaning the data, classifying sentiments, and visualizing the results, users can gain valuable insights into public opinion and trends. Further enhancements can include model development for automated sentiment prediction and more advanced NLP techniques.
+This project provides a comprehensive framework for analyzing sentiments in tweets. By cleaning the data, classifying sentiments, and visualizing the results, users can gain valuable insights into public opinion and trends. 
